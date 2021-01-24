@@ -1,6 +1,6 @@
 # AirQualityBeijing
 
-I trained the following 3 models in order to predict pm2.5 (particulate matter) values and checked the model performance with k-fold cross-validation. 
+I trained the following 3 models in order to predict pm2.5 (particulate matter) values and checked the model performance with k-fold cross-validation. Besides that I also checked the correlation between the independent variables and the target variable.
 * Artificial Neural Network, generated with tensorflow (210123_kfold_AirQual_ANN.ipynb) --> Mean Squared Error: 3778.259; Standard Deviation: 195.038
 * Random Forest Regressor (210123_kfold_AirQual_RandomForest.ipynb) --> Mean Squared Error: 2293.779; Standard Deviation: 135.446
 * Decision Tree Regressor (210123_kfold_AirQual_DecisionTree.ipynb) --> Mean Squared Error: 4327.621; Standard Deviation: 352.371
