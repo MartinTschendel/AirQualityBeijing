@@ -8,6 +8,6 @@ I trained the following 3 models in order to predict pm2.5 (particulate matter) 
 
 ### Based on the validation results, the random forest regressor shows the best performance, followed by the artificial neural network and the decision tree regressor.
 
-![Random Forest Regressor](https://github.com/[MartinTschendel]/[AirQualityBeijing]/blob/[update]/line_ranfor.PNG?raw=true)
+![Random Forest Regressor](https://github.com/MartinTschendel/AirQualityBeijing/blob/update/line_ranfor.PNG?raw=true)
 
 Dataset is uploaded and taken from UCI Machine Learning Repository (Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H. and Chen, S. X. (2015). Assessing Beijing'sPM2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A, 471,20150257.)
